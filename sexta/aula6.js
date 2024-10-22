@@ -13,3 +13,5 @@ console.log(`O ataque do meu personagem é: ${Carta.habìlidade}`);
 console.log(`A defesa do meu personagem é: ${Carta.defesa}`);
 console.log(`O ataque do meu personagem é: ${Carta.ataque}`);
 console.log(`O meu tipo é ${Carta.slogan}`);
+
+//tipo objeto dentro do javascript
