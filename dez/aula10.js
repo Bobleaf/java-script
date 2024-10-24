@@ -18,4 +18,5 @@ console.log(matrizVendas[2]) //fazendo a impressão da loja a no terminal
 
 
 
-console.log(`o valor é ${matrizVendas[1][0] + matrizVendas[1][1] + matrizVendas[1][2]}`)
+let resultadoLojaB = matrizVendas[1][0] + matrizVendas[1][1] + matrizVendas[1][2];
+console.log(resultadoLojaB)
