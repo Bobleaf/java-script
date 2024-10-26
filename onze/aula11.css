@@ -1,0 +1,20 @@
+/*Estilo inicial para o body e o texto*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    transition: background-color 0.5s, color 0.5s;/*transição suave de cor de fundo e texto*/
+    background-color: white;
+    color: black;
+}
+
+/*estilo do botão*/
+
+#toggleButton{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+border-radius: 5px;
+transform: background-color 0.5s;/*tramsição suave par cor do botão*/
+}
