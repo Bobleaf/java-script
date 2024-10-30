@@ -1,0 +1,35 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+/*Caixa onde estará guardada a lista de tarefas*/
+#container{
+    margin: 20px auto;
+    border: 5px black solid;
+    max-width: 600px;
+    padding: 30px;
+    border-radius: 10px;
+}
+/*Formatando nossa Lista não ordenada*/
+#taskList{
+    list-style: none;
+    padding: 0;
+}
+
+/*Formatando o botão*/
+
+#addTask{
+    background-color: blue;
+    margin-top: 10px;
+    color: white;
+    padding: 10px 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+#addTask:hover{
+    background-color: rgba(0,0,255,0.666);
+    transition: 0.8s;
+}
