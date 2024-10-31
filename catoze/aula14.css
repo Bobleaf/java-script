@@ -1,0 +1,13 @@
+#menuElemento{/*ele é a caixa em questão*/
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+}
+
+.square{
+    border-radius: 0%;/*Borda quadrada*/
+}
+
+.circle{
+    border-radius: 80%;/*borda arredondada*/
+}
